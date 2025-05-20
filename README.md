@@ -3,7 +3,8 @@
 
 **Features**
 
-Generates high-quality anime faces  Implemented using PyTorch
+Generates high-quality anime faces  
+Implemented using PyTorch
 
 One notebook covers both training and generation
 
