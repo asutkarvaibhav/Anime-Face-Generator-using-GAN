@@ -3,20 +3,20 @@
 
 **Features**  
 * Generates high-quality anime faces  
-Implemented using PyTorch  
-One notebook covers both training and generation
+* Implemented using PyTorch  
+* One notebook covers both training and generation
 
 **Tech Stack**  
-Python  
-PyTorch  
-torchvision  
-matplotlib
+* Python  
+* PyTorch  
+* torchvision  
+* matplotlib
 
 **Dataset**  
 You can use datasets like: https://www.kaggle.com/splcher/animefacedataset
 
 **Notes**  
-For best results, use a GPU (e.g., Google Colab or local CUDA).  
-Training time and quality may vary depending on the number of epochs and dataset size.
+* For best results, use a GPU (e.g., Google Colab or local CUDA).  
+* Training time and quality may vary depending on the number of epochs and dataset size.
 
 
