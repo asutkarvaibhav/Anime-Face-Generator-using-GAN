@@ -19,7 +19,7 @@ You can use datasets like: https://www.kaggle.com/splcher/animefacedataset
 * For best results, use a GPU (e.g., Google Colab or local CUDA).  
 * Training time and quality may vary depending on the number of epochs and dataset size.
 
-  **👨‍💻 Author**
-  Vaibhav Asutkar
+**👨‍💻 Author**  
+Vaibhav Asutkar
 
 
